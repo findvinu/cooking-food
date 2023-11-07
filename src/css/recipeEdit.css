@@ -1,0 +1,27 @@
+form  div{
+    display: flex;
+}
+form .label{
+    width:40%;
+    display: inline-flex;
+}
+
+.input{
+    margin-bottom: 10px;
+    height: 35px;
+  
+}
+.input, .textarea{
+    width: 50%;
+}
+
+textarea{    
+    margin-bottom: 30px;
+}
+
+.recipeIngreEdit input{
+    margin-right: 5px;
+}
+
+.recipeIngreEdit button{ height: 40px;
+}

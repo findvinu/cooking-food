@@ -1,0 +1,20 @@
+.recipeWrapper, .recipeEdit{
+
+    height: 100vh;
+    padding: 20px;
+}
+
+
+.recipeWrapper{
+    width: 60%;
+}
+
+.recipe{
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+}
+
+.recipeWrapper{
+    border-right: 1px solid black;
+}

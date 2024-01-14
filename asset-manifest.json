@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cooking-food/static/css/main.f8b5d3dc.css",
+    "main.js": "/cooking-food/static/js/main.682c6530.js",
+    "static/media/GothamRounded-MediumItalic.woff": "/cooking-food/static/media/GothamRounded-MediumItalic.13cb3a5384c76f2d9516.woff",
+    "static/media/GothamRounded-Medium.woff": "/cooking-food/static/media/GothamRounded-Medium.08ba5b83b71ca7f858bc.woff",
+    "static/media/GothamRounded-LightItalic.woff": "/cooking-food/static/media/GothamRounded-LightItalic.f0895ec04ad7324e58a2.woff",
+    "static/media/GothamRounded-Bold.woff": "/cooking-food/static/media/GothamRounded-Bold.4d7d82e5cfc10755b91e.woff",
+    "static/media/GothamRounded-Light.woff": "/cooking-food/static/media/GothamRounded-Light.c8518420449fe2af326e.woff",
+    "static/media/GothamRounded-MediumItalic.woff2": "/cooking-food/static/media/GothamRounded-MediumItalic.b8226498cd3d804ef54a.woff2",
+    "static/media/GothamRounded-Medium.woff2": "/cooking-food/static/media/GothamRounded-Medium.13a45c3fb47149ee921e.woff2",
+    "static/media/GothamRounded-Bold.woff2": "/cooking-food/static/media/GothamRounded-Bold.a15854643cbf326523eb.woff2",
+    "static/media/GothamRounded-LightItalic.woff2": "/cooking-food/static/media/GothamRounded-LightItalic.f28a09f885e7888decc1.woff2",
+    "static/media/GothamRounded-Light.woff2": "/cooking-food/static/media/GothamRounded-Light.037febd6d60c1a9fb753.woff2",
+    "index.html": "/cooking-food/index.html",
+    "main.f8b5d3dc.css.map": "/cooking-food/static/css/main.f8b5d3dc.css.map",
+    "main.682c6530.js.map": "/cooking-food/static/js/main.682c6530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8b5d3dc.css",
+    "static/js/main.682c6530.js"
+  ]
+}
